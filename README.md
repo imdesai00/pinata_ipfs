@@ -69,8 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-i can use react as a frontend and pinata to store file.
-
 # PROJECT OVERVIEW
 1. first you need to register and login to pinata 
 2. afterwards you need to create api at that time they provide some keys so u need to save it.
