@@ -1,7 +1,7 @@
 #Project Overview
 1. In this project i can upalod files to ipfs using pinata sservices. i use react for this project.
 
-#About IPFS
+#ABOUTIPFS
   The InterPlanetary File System is a protocol, hypermedia and file sharing peer-to-peer network for storing and sharing data in a distributed file system.
   in pinata you can create your gateway and also upload files to it.
 
