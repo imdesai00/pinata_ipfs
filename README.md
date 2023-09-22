@@ -1,5 +1,5 @@
 ## Project Overview
-1. In this project i can upalod files to ipfs using pinata sservices. i use react for this project.
+1. In this project i can upalod files to ipfs using pinata api keys. i use react for this project.
 
 ## About PINATA
 1. first you need to register and login to pinata 
